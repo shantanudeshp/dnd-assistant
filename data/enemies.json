@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Goblin Grunt",
+    "hp": 10,
+    "damage": 2,
+  },
+  {
+    "name": "Orc Warrior",
+    "hp": 20,
+    "damage": 5,
+  }
+]
+

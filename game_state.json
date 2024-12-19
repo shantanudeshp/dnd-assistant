@@ -1,0 +1,27 @@
+{
+  "player": {
+    "name": "Varric the Vigilant",
+    "hp": 30,
+    "inventory": [
+      "rusty sword",
+      "health potion",
+      "small pouch (10 gold pieces)",
+      "crude leather pouch (raionts)"
+    ],
+    "last_command": "ascend"
+  },
+  "enemies": [
+    {
+      "name": "Goblin Grunt",
+      "hp": 0,
+      "location": "forest clearing",
+      "status": {
+        "negotiation_state": "",
+        "is_alive": false,
+        "is_defeated": true
+      }
+    }
+  ],
+  "location": "forest canopy (mid-tree)",
+  "description": "Varric stands at a mid-point in a tall, ancient tree in a dimly lit forest clearing with mossy floor below."
+}

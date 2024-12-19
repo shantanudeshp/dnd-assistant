@@ -1,1 +1,12 @@
+
+
 .env
+
+__pycache__/
+*.pyc
+
+myenv/
+
+.DS_Store
+
+*.log

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "forest clearing",
+    "description": "A dimly lit forest clearing with mossy floor and tall, ancient trees.",
+    "enemies": ["Goblin Grunt"]
+  },
+  {
+    "name": "dark cave",
+    "description": "A dark, damp cave with the sound of dripping water echoing.",
+    "enemies": ["Orc Warrior"]
+    "items": ["Flaming Sword"]
+  }
+]
+

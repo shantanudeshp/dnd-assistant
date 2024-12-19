@@ -1,0 +1,18 @@
+{
+  "player": {
+    "name": "Varric the Vigilant",
+    "hp": 30,
+    "inventory": ["rusty sword", "health potion"]
+  },
+  "enemies": [
+    {
+      "name": "Goblin Grunt",
+      "hp": 10,
+      "location": "forest clearing"
+    }
+  ],
+  "location": "forest clearing",
+  "description": "A dimly lit forest clearing with mossy floor and tall, ancient trees.",
+  "last_command": null
+}
+
